@@ -1,32 +1,32 @@
-## **Broke Stone/ Drama Stone**
+# **Broke Stone/ Drama Stone**
 
 ------
 
-#### **Nome do Jogo:**
+### Nome do Jogo
 
 ------
 
 - Broke Stone
 
-#### **Gênero:**
+### **Gênero**
 
 ------
 
 - Labirinto
 
-#### **Público Alvo**
+### **Público Alvo**
 
 ------
 
 - Todas as faixas etárias
 
-#### **Objetivo geral**
+### **Objetivo geral**
 
 ------
 
 - Encontrar a saída do labirinto
 
-#### **Objetivo específico**
+### **Objetivo específico**
 
 ------
 
@@ -38,31 +38,31 @@
 
 - O explorador se perdeu no labirinto subterrâneo e precisa escapar antes que seja tarde demais.
 
-#### **Personagem**
+### **Personagem**
 
 ------
 
 - Explorador Barney
 
-#### **Inimigos**
+### **Inimigos**
 
 ------
 
 - O tempo
 
-#### **Interação do jogador**
+### **Interação do jogador**
 
 ------
 
 - Abrir caminho, quebrando as pedras para achar a saída.
 
-#### **Controles**
+### **Controles**
 
 ------
 
 - 
 
-#### **Regra do Jogo**
+### **Regra do Jogo**
 
 ------
 
