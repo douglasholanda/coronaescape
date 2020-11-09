@@ -1,6 +1,6 @@
 **Broke Stone/ Drama Stone**
 
-------
+----
 
 **Nome do Jogo:**
 
