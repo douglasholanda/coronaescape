@@ -1,12 +1,12 @@
-# Broke Stone/ Drama Stone
+# CORONA ESCAPE
 
 ## Nome do Jogo
 
-- Broke Stone
+- Corona Escape
 
 ## Gênero
 
-- Labirinto
+- Shooter
 
 ## Público Alvo
 
@@ -14,31 +14,30 @@
 
 ## Objetivo geral
 
-- Encontrar a saída do labirinto
+- Sobreviver e destruir todos os vírus, eliminando a ameaça do CoronaVírus
 
 ## Objetivo específico
 
-- Salvar sua vida antes que o oxigênio acabe
+- Atingir uma pontuação específica (ainda não determinada), para liberar a luta contra o chefão principal e vencer o jogo.
 
 ## Enredo
 
-- O explorador se perdeu no labirinto subterrâneo e precisa escapar antes que seja tarde demais.
+- Os cientistas na luta contra o CoronaVírus desenvolveram uma tecnologia para destruir o covid em nível molecular, tal tecnologia foi chamada de VACINA, os experimentos contam com uma equipe de cientistas liderados pelo Dr Soap que juntos em uma nave diminuíram até medidas miscroscópicas e foram inseridos em cobaias para derrotar o vírus em seu habitat natural. Tenham cuidado com outro vírus que ronda entre os cobaias, ele se chama FakeNews e consegue disparar contra a nave dos cientistas. A batalha não é fácil, mas tentaremos vencer!
 
 ## Personagem
 
-- Explorador Barney
+- 
 
 ## Inimigos
 
-- O tempo
-
-## Interação do jogador
-
-- Abrir caminho, quebrando as pedras para achar a saída.
+- Os vírus
 
 ## Controles 
 
--
+- A - Giro na direção anti-horária
+- D - Giro na direção horária
+- W - Impulso para frente
+- SPACE - Atirar
 
 ## Regra do Jogo
 
