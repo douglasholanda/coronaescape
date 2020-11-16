@@ -10,11 +10,11 @@
 
 ## Público Alvo
 
-- Todas as faixas etárias
+- Todas as faixas etárias.
 
 ## Objetivo geral
 
-- Sobreviver e destruir todos os vírus, eliminando a ameaça do CoronaVírus
+- Sobreviver e destruir todos os vírus, eliminando a ameaça do Corona.
 
 ## Objetivo específico
 
