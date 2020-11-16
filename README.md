@@ -26,11 +26,11 @@
 
 ## Personagem
 
-- 
+- Nave Scientist
 
 ## Inimigos
 
-- Os vírus
+- Os vírus (Coronão, coroninhas e o fakeNews)
 
 ## Controles 
 
