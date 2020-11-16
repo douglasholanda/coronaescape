@@ -22,7 +22,7 @@
 
 ## Enredo
 
-- Os cientistas na luta contra o CoronaVírus desenvolveram uma tecnologia para destruir o covid em nível molecular, tal tecnologia foi chamada de VACINA, os experimentos contam com uma equipe de cientistas liderados pelo Dr Soap que juntos em uma nave diminuíram até medidas miscroscópicas e foram inseridos em cobaias para derrotar o vírus em seu habitat natural. Tenham cuidado com outro vírus que ronda entre os cobaias, ele se chama FakeNews e consegue disparar contra a nave dos cientistas. A batalha não é fácil, mas tentaremos vencer!
+- Os cientistas na luta contra o CoronaVírus desenvolveram uma tecnologia para destruir o covid em nível molecular, tal tecnologia foi chamada de VACINA, os experimentos contam com uma equipe de cientistas liderados pelo Dr Soap que juntos em uma nave diminuíram até medidas miscroscópicas e foram inseridos em cobaias para derrotar o vírus em seu habitat natural. Tenham cuidado com outro vírus que ronda entre os cobaias, ele se chama FakeNews e consegue disparar contra a nave dos cientistas.
 
 ## Personagem
 
